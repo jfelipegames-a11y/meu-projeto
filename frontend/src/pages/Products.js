@@ -32,7 +32,7 @@ const Products = () => {
               variant={selectedCategory === category.id ? 'default' : 'outline'}
               className={`transition-all duration-300 ${
                 selectedCategory === category.id 
-                  ? 'bg-[#0066FF] hover:bg-[#0052CC] text-white border-0' 
+                  ? 'bg-[#6B7280] hover:bg-[#4B5563] text-white border-0' 
                   : 'border-2 border-[#2E2E2E] hover:bg-[#2E2E2E] hover:text-white'
               }`}
             >
