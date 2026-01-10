@@ -9,7 +9,13 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">CRZ</h3>
+            <Link to="/" className="inline-block mb-4">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_connect-daily-4/artifacts/k9gsr979_LOGO%20PRETA%20-%20PNG.png" 
+                alt="CRZ Logo" 
+                className="h-8 w-auto brightness-0 invert"
+              />
+            </Link>
             <p className="text-gray-400">
               Acessórios tech que conectam você ao que importa.
             </p>
