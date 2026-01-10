@@ -23,8 +23,12 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="text-2xl font-bold tracking-tight hover:text-[#0066FF] transition-colors">
-            CRZ
+          <Link to="/" className="flex items-center">
+            <img 
+              src="https://customer-assets.emergentagent.com/job_connect-daily-4/artifacts/k9gsr979_LOGO%20PRETA%20-%20PNG.png" 
+              alt="CRZ Logo" 
+              className="h-8 md:h-10 w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}
