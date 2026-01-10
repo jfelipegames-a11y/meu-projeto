@@ -102,7 +102,7 @@ const Home = () => {
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     {product.badge && (
-                      <Badge className="absolute top-3 left-3 bg-[#0066FF] hover:bg-[#0066FF] text-white border-0">
+                      <Badge className="absolute top-3 left-3 bg-[#6B7280] hover:bg-[#6B7280] text-white border-0">
                         {product.badge}
                       </Badge>
                     )}
