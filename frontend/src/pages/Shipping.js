@@ -130,7 +130,7 @@ const Shipping = () => {
                     </p>
                     <Button 
                       onClick={handleWhatsAppContact}
-                      className="bg-[#0066FF] hover:bg-[#0052CC] text-white transition-colors duration-300"
+                      className="bg-[#6B7280] hover:bg-[#4B5563] text-white transition-colors duration-300"
                     >
                       <MessageCircle className="mr-2 h-4 w-4" />
                       Falar com Suporte
