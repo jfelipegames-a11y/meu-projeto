@@ -138,7 +138,7 @@ const ProductDetail = () => {
                 <ul className="space-y-3">
                   {product.features.map((feature, index) => (
                     <li key={index} className="flex items-start gap-3">
-                      <CheckCircle className="h-5 w-5 text-[#0066FF] mt-0.5 flex-shrink-0" />
+                      <CheckCircle className="h-5 w-5 text-[#6B7280] mt-0.5 flex-shrink-0" />
                       <span>{feature}</span>
                     </li>
                   ))}
