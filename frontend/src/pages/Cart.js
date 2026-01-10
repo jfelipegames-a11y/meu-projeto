@@ -15,7 +15,7 @@ const Cart = () => {
           <ShoppingBag className="h-24 w-24 mx-auto mb-6 text-gray-300" />
           <h2 className="text-3xl font-bold mb-4">Seu carrinho está vazio</h2>
           <p className="text-gray-600 mb-8">Adicione produtos incríveis ao seu carrinho!</p>
-          <Button asChild size="lg" className="bg-[#0066FF] hover:bg-[#0052CC] text-white">
+          <Button asChild size="lg" className="bg-[#6B7280] hover:bg-[#4B5563] text-white">
             <Link to="/produtos">Ver Produtos</Link>
           </Button>
         </div>
