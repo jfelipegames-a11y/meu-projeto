@@ -60,7 +60,7 @@ const Home = () => {
               const Icon = iconMap[benefit.icon];
               return (
                 <div key={benefit.id} className="text-center">
-                  <div className="inline-flex items-center justify-center w-16 h-16 mb-4 bg-[#0066FF] rounded-lg">
+                  <div className="inline-flex items-center justify-center w-16 h-16 mb-4 bg-[#6B7280] rounded-lg">
                     <Icon className="h-8 w-8 text-white" />
                   </div>
                   <h3 className="text-lg font-semibold mb-2">{benefit.title}</h3>
