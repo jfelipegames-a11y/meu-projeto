@@ -110,7 +110,7 @@ const Shipping = () => {
                 </div>
 
                 <div className="flex items-start gap-4">
-                  <Shield className="h-6 w-6 text-[#0066FF] mt-1 flex-shrink-0" />
+                  <Shield className="h-6 w-6 text-[#6B7280] mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-lg mb-2">Produto com Defeito</h3>
                     <p className="text-gray-600">
