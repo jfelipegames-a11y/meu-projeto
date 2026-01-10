@@ -151,17 +151,17 @@ const Home = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <div className="flex items-center gap-2">
-              <Shield className="h-6 w-6 text-[#0066FF]" />
+              <Shield className="h-6 w-6 text-[#6B7280]" />
               <span>Garantia incluída</span>
             </div>
             <div className="hidden sm:block w-px h-6 bg-gray-600"></div>
             <div className="flex items-center gap-2">
-              <Truck className="h-6 w-6 text-[#0066FF]" />
+              <Truck className="h-6 w-6 text-[#6B7280]" />
               <span>Entrega para todo Brasil</span>
             </div>
             <div className="hidden sm:block w-px h-6 bg-gray-600"></div>
             <div className="flex items-center gap-2">
-              <CheckCircle className="h-6 w-6 text-[#0066FF]" />
+              <CheckCircle className="h-6 w-6 text-[#6B7280]" />
               <span>Produtos testados</span>
             </div>
           </div>
