@@ -69,7 +69,7 @@ const Products = () => {
               </Link>
               <CardContent className="p-5">
                 <Link to={`/produto/${product.id}`}>
-                  <h3 className="font-semibold text-lg mb-2 line-clamp-2 group-hover:text-[#0066FF] transition-colors">
+                  <h3 className="font-semibold text-lg mb-2 line-clamp-2 group-hover:text-[#6B7280] transition-colors">
                     {product.name}
                   </h3>
                 </Link>
