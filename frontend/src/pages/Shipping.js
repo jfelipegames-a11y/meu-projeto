@@ -29,7 +29,7 @@ const Shipping = () => {
             <Card className="border-0 bg-gray-50">
               <CardContent className="p-6">
                 <div className="flex items-start gap-4">
-                  <div className="bg-[#0066FF] p-3 rounded-lg">
+                  <div className="bg-[#6B7280] p-3 rounded-lg">
                     <Truck className="h-6 w-6 text-white" />
                   </div>
                   <div>
