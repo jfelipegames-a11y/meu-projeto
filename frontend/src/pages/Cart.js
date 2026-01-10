@@ -151,7 +151,7 @@ const Cart = () => {
                 <div className="space-y-3">
                   <Button
                     onClick={sendToWhatsApp}
-                    className="w-full bg-[#0066FF] hover:bg-[#0052CC] text-white py-6 text-lg transition-colors duration-300"
+                    className="w-full bg-[#6B7280] hover:bg-[#4B5563] text-white py-6 text-lg transition-colors duration-300"
                   >
                     <MessageCircle className="mr-2 h-5 w-5" />
                     Finalizar via WhatsApp
