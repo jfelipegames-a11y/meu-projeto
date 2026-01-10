@@ -61,7 +61,7 @@ const About = () => {
 
           <Card className="text-center border-0 bg-gray-50">
             <CardContent className="pt-8 pb-8">
-              <div className="inline-flex items-center justify-center w-16 h-16 mb-4 bg-[#0066FF] rounded-lg">
+              <div className="inline-flex items-center justify-center w-16 h-16 mb-4 bg-[#6B7280] rounded-lg">
                 <Heart className="h-8 w-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Atendimento Próximo</h3>
