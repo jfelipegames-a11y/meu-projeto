@@ -71,7 +71,7 @@ const Header = () => {
                       key={link.to}
                       to={link.to}
                       onClick={() => setMobileMenuOpen(false)}
-                      className="text-lg font-medium hover:text-[#0066FF] transition-colors"
+                      className="text-lg font-medium hover:text-[#6B7280] transition-colors"
                     >
                       {link.label}
                     </Link>
