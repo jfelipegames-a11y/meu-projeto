@@ -33,7 +33,7 @@ const Home = () => {
             <Button 
               asChild 
               size="lg"
-              className="bg-[#0066FF] hover:bg-[#0052CC] text-white text-lg px-8 py-6 transition-all duration-300"
+              className="bg-[#6B7280] hover:bg-[#4B5563] text-white text-lg px-8 py-6 transition-all duration-300"
             >
               <Link to="/produtos">
                 Comprar agora
