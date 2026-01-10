@@ -67,7 +67,7 @@ const ProductDetail = () => {
                 className="w-full h-full object-cover"
               />
               {product.badge && (
-                <Badge className="absolute top-4 left-4 bg-[#0066FF] hover:bg-[#0066FF] text-white border-0 text-base px-4 py-2">
+                <Badge className="absolute top-4 left-4 bg-[#6B7280] hover:bg-[#6B7280] text-white border-0 text-base px-4 py-2">
                   {product.badge}
                 </Badge>
               )}
