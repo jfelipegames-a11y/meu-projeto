@@ -37,7 +37,7 @@ const Header = () => {
               <Link
                 key={link.to}
                 to={link.to}
-                className="text-gray-700 hover:text-[#0066FF] font-medium transition-colors duration-300"
+                className="text-gray-700 hover:text-[#6B7280] font-medium transition-colors duration-300"
               >
                 {link.label}
               </Link>
