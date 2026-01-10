@@ -50,7 +50,7 @@ const Header = () => {
               <Link to="/carrinho">
                 <ShoppingCart className="h-5 w-5" />
                 {cartCount > 0 && (
-                  <Badge className="absolute -top-2 -right-2 h-5 w-5 flex items-center justify-center p-0 bg-[#0066FF] hover:bg-[#0066FF] border-0 text-xs">
+                  <Badge className="absolute -top-2 -right-2 h-5 w-5 flex items-center justify-center p-0 bg-[#6B7280] hover:bg-[#6B7280] border-0 text-xs">
                     {cartCount}
                   </Badge>
                 )}
