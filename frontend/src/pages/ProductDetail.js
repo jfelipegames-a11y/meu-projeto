@@ -97,7 +97,7 @@ const ProductDetail = () => {
                       <div 
                         className={`w-12 h-12 rounded-full border-2 transition-all duration-300 ${
                           selectedVariant?.color === variant.color 
-                            ? 'border-[#0066FF] ring-2 ring-[#0066FF] ring-offset-2' 
+                            ? 'border-[#6B7280] ring-2 ring-[#6B7280] ring-offset-2' 
                             : 'border-gray-300 hover:border-gray-400'
                         }`}
                         style={{ 
