@@ -4,7 +4,7 @@ export const products = [
     id: 1,
     name: "Carregador Veicular QC 3.0 TIPO C PD 20W",
     shortName: "Carregador Veicular 20W",
-    price: 89.90,
+    price: 29.90,
     description: "Carregador veicular com tecnologia Quick Charge 3.0 e Power Delivery 20W para carregamento rápido e seguro.",
     features: [
       "Quick Charge 3.0",
@@ -20,7 +20,7 @@ export const products = [
       { label: "Saída", value: "5V/3A, 9V/2.22A, 12V/1.67A" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1591290619762-c588dd27db84?w=800&q=80",
+    image: "https://imgur.com/rt15MOq",
     category: "carregadores",
     inStock: true,
     badge: "Mais Vendido"
@@ -29,7 +29,7 @@ export const products = [
     id: 2,
     name: "Cordão Salva Celular Universal com Strass",
     shortName: "Cordão Salva Celular",
-    price: 39.90,
+    price: 29.90,
     description: "Cordão universal elegante com detalhes em strass. Mantém seu celular sempre seguro e acessível.",
     features: [
       "Universal - compatível com qualquer aparelho",
@@ -50,7 +50,7 @@ export const products = [
       { color: "Branco", colorCode: "#FFFFFF" },
       { color: "Vermelho", colorCode: "#DC143C" }
     ],
-    image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&q=80",
+    image: "https://imgur.com/a/WYbv8fV",
     category: "acessorios",
     inStock: true
   },
@@ -58,7 +58,7 @@ export const products = [
     id: 3,
     name: "Cabo Tipo C 1m Branco Premium",
     shortName: "Cabo USB-C Premium",
-    price: 49.90,
+    price: 59.90,
     description: "Cabo USB Type-C premium com design elegante branco. Carregamento rápido e transferência de dados em alta velocidade.",
     features: [
       "USB Type-C",
@@ -74,7 +74,7 @@ export const products = [
       { label: "Material", value: "TPE Premium" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&q=80",
+    image: "https://imgur.com/a/l4opcSP",
     category: "cabos",
     inStock: true,
     badge: "Premium"
@@ -83,7 +83,7 @@ export const products = [
     id: 4,
     name: "Cabo Lightning Tipo C 1m Premium",
     shortName: "Cabo Lightning Premium",
-    price: 59.90,
+    price: 49.90,
     description: "Cabo Lightning para iPhone com saída USB-C. Certificado para garantir compatibilidade e segurança total.",
     features: [
       "Compatível com iPhone",
@@ -99,7 +99,7 @@ export const products = [
       { label: "Material", value: "TPE Premium" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1591290619762-c588dd27db84?w=800&q=80",
+    image: "https://imgur.com/a/NScFBEZ",
     category: "cabos",
     inStock: true
   },
@@ -107,7 +107,7 @@ export const products = [
     id: 5,
     name: "Fonte Parede Tipo C 20W",
     shortName: "Fonte USB-C 20W",
-    price: 79.90,
+    price: 39.90,
     description: "Fonte de parede USB Type-C com Power Delivery 20W. Carregue seu dispositivo com velocidade e segurança.",
     features: [
       "Power Delivery 20W",
@@ -123,7 +123,7 @@ export const products = [
       { label: "Tecnologia", value: "Power Delivery" },
       { label: "Garantia", value: "12 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?w=800&q=80",
+    image: "https://imgur.com/a/pSZFax8",
     category: "carregadores",
     inStock: true,
     badge: "Mais Vendido"
@@ -132,7 +132,7 @@ export const products = [
     id: 6,
     name: "Cabo Dados USB Tipo C 1m 5A Fast Charge",
     shortName: "Cabo USB-C 5A",
-    price: 69.90,
+    price: 34.90,
     description: "Cabo USB Type-C com suporte a 5A para carregamento ultra-rápido. Ideal para dispositivos de alta potência.",
     features: [
       "Corrente de 5A",
@@ -148,7 +148,7 @@ export const products = [
       { label: "Material", value: "Nylon Trançado" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&q=80",
+    image: "https://imgur.com/a/tkrTVnE",
     category: "cabos",
     inStock: true,
     badge: "Fast Charge"
@@ -156,8 +156,8 @@ export const products = [
   {
     id: 7,
     name: "Carregador Power Bank MagSafe",
-    shortName: "Power Bank MagSafe",
-    price: 199.90,
+    shortName: "Power Bank MagSafe",X
+    price: 119.90,
     description: "Power bank com tecnologia MagSafe para iPhone. Carregamento sem fio magnético e prático para o dia a dia.",
     features: [
       "Compatível com MagSafe",
@@ -173,7 +173,7 @@ export const products = [
       { label: "Compatibilidade", value: "iPhone 12 ou superior" },
       { label: "Garantia", value: "12 meses" }
     ],
-    image: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=80",
+    image: "https://imgur.com/a/0Pf8tT0",
     category: "carregadores",
     inStock: true,
     badge: "Premium"
