@@ -154,30 +154,32 @@ export const products = [
     badge: "Fast Charge"
   },
   {
-    id: 7,
-    name: "Carregador Power Bank MagSafe",
-    shortName: "Power Bank MagSafe",X
-    price: 119.90,
-    description: "Power bank com tecnologia MagSafe para iPhone. Carregamento sem fio magnético e prático para o dia a dia.",
-    features: [
-      "Compatível com MagSafe",
-      "Carregamento sem fio",
-      "Capacidade 5000mAh",
-      "Design ultra-fino",
-      "Indicador LED de bateria"
-    ],
-    specs: [
-      { label: "Capacidade", value: "5000mAh" },
-      { label: "Potência", value: "15W" },
-      { label: "Entrada", value: "USB-C" },
-      { label: "Compatibilidade", value: "iPhone 12 ou superior" },
-      { label: "Garantia", value: "12 meses" }
-    ],
-    image: "https://i.imgur.com/5nRU0sE.png",
-    category: "carregadores",
-    inStock: true,
-    badge: "Premium"
-  }
+    {
+  id: 7,
+  name: "Carregador Power Bank MagSafe",
+  shortName: "Power Bank MagSafe",
+  price: 119.90,
+  description: "Power bank com tecnologia MagSafe para iPhone. Carregamento sem fio magnético e prático para o dia a dia.",
+  features: [
+    "Compatível com MagSafe",
+    "Carregamento sem fio",
+    "Capacidade 5000mAh",
+    "Design ultra-fino",
+    "Indicador LED de bateria"
+  ],
+  specs: [
+    { label: "Capacidade", value: "5000mAh" },
+    { label: "Potência", value: "15W" },
+    { label: "Entrada", value: "USB-C" },
+    { label: "Compatibilidade", value: "iPhone 12 ou superior" },
+    { label: "Garantia", value: "12 meses" }
+  ],
+  image: "https://i.imgur.com/5nRU0sE.png",
+  category: "carregadores",
+  inStock: true,
+  badge: "Premium",
+}
+
 ];
 
 export const benefits = [
