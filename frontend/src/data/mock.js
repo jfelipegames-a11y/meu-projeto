@@ -50,7 +50,7 @@ export const products = [
       { color: "Branco", colorCode: "#FFFFFF" },
       { color: "Vermelho", colorCode: "#DC143C" }
     ],
-    image: "hhttps://i.imgur.com/C9KYtCL.png",
+    image: "https://i.imgur.com/C9KYtCL.png",
     category: "acessorios",
     inStock: true
   },
