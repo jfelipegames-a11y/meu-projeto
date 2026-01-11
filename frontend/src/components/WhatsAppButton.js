@@ -5,7 +5,7 @@ import { Button } from '../components/ui/button';
 const WhatsAppButton = () => {
   const handleWhatsAppClick = () => {
     const message = 'Olá! Gostaria de mais informações sobre os produtos CRZ.';
-    const whatsappNumber = '5511999999999'; // Replace with actual WhatsApp number
+    const whatsappNumber = '5541999257331'; // Replace with actual WhatsApp number
     const encodedMessage = encodeURIComponent(message);
     window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, '_blank');
   };
