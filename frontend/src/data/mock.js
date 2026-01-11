@@ -20,7 +20,7 @@ export const products = [
       { label: "Saída", value: "5V/3A, 9V/2.22A, 12V/1.67A" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://imgur.com/rt15MOq",
+    image: "https://i.imgur.com/rt15MOq.png",
     category: "carregadores",
     inStock: true,
     badge: "Mais Vendido"
@@ -50,7 +50,7 @@ export const products = [
       { color: "Branco", colorCode: "#FFFFFF" },
       { color: "Vermelho", colorCode: "#DC143C" }
     ],
-    image: "https://imgur.com/a/WYbv8fV",
+    image: "hhttps://i.imgur.com/C9KYtCL.png",
     category: "acessorios",
     inStock: true
   },
@@ -74,7 +74,7 @@ export const products = [
       { label: "Material", value: "TPE Premium" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://imgur.com/a/l4opcSP",
+    image: "https://i.imgur.com/xfshvB3.png",
     category: "cabos",
     inStock: true,
     badge: "Premium"
@@ -99,7 +99,7 @@ export const products = [
       { label: "Material", value: "TPE Premium" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://imgur.com/a/NScFBEZ",
+    image: "https://i.imgur.com/L0qJOHC.png",
     category: "cabos",
     inStock: true
   },
@@ -123,7 +123,7 @@ export const products = [
       { label: "Tecnologia", value: "Power Delivery" },
       { label: "Garantia", value: "12 meses" }
     ],
-    image: "https://imgur.com/a/pSZFax8",
+    image: "https://i.imgur.com/4EuUT4D.jpeg",
     category: "carregadores",
     inStock: true,
     badge: "Mais Vendido"
@@ -148,7 +148,7 @@ export const products = [
       { label: "Material", value: "Nylon Trançado" },
       { label: "Garantia", value: "6 meses" }
     ],
-    image: "https://imgur.com/a/tkrTVnE",
+    image: "https://i.imgur.com/0C3oI67.png",
     category: "cabos",
     inStock: true,
     badge: "Fast Charge"
@@ -173,7 +173,7 @@ export const products = [
       { label: "Compatibilidade", value: "iPhone 12 ou superior" },
       { label: "Garantia", value: "12 meses" }
     ],
-    image: "https://imgur.com/a/0Pf8tT0",
+    image: "https://i.imgur.com/5nRU0sE.png",
     category: "carregadores",
     inStock: true,
     badge: "Premium"
