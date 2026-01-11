@@ -91,9 +91,9 @@ export const CartProvider = ({ children }) => {
     const total = getCartTotal();
     const fullMessage = `*Pedido CRZ*\n\n${message}\n\n*Total: R$ ${total.toFixed(2)}*`;
     
-    const whatsappNumber = '5511999999999'; // Replace with actual WhatsApp number
+    const whatsappNumber = '5541999257331'; // Replace with actual WhatsApp number
     const encodedMessage = encodeURIComponent(fullMessage);
-    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodedMessage}`;
     
     window.open(whatsappUrl, '_blank');
   };
