@@ -153,7 +153,7 @@ export const products = [
     inStock: true,
     badge: "Fast Charge"
   },
-  {
+  
     {
   id: 7,
   name: "Carregador Power Bank MagSafe",
