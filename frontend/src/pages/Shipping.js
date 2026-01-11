@@ -5,7 +5,7 @@ import { Button } from '../components/ui/button';
 
 const Shipping = () => {
   const handleWhatsAppContact = () => {
-    const message = 'Olá! Gostaria de informações sobre entrega e suporte.';
+    const message = 'Olá! Gostaria de informações sobre entrega.';
     const whatsappNumber = '5541999257331';
     const encodedMessage = encodeURIComponent(message);
     window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, '_blank');
